@@ -17,6 +17,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+	<li><a href="#Topics-I-implemented">Topics I implemented</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -28,7 +29,7 @@
     </li>
     <li><a href="#Lab-Setup">Lab Setup</a></li>
     <li><a href="#Steps-to-Migrate-data-from-MySQL-to-S3">Steps to Migrate data from MySQL to S3</a></li>
-    <li><a href="#Import-/-Export-data-from-S3-to-DynamoDB">Import / Export data from S3 to DynamoDB</a></li>
+    <li><a href="#Import-and-Export-data-from-S3-to-DynamoDB">Import and Export data from S3 to DynamoDB</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -104,8 +105,8 @@ Ethereum is a platform for developing applications. It is based on the Blockchai
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- Import / Export data from S3 to DynamoDB -->
-## Import / Export data from S3 to DynamoDB
+<!-- Import and Export data from S3 to DynamoDB -->
+## Import and Export data from S3 to DynamoDB
 
 Create a table in DynamoDB
 

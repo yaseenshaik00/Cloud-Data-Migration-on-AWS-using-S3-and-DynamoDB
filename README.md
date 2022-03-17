@@ -27,7 +27,7 @@
       </ul>
     </li>
     <li><a href="#Lab-Setup">Lab Setup</a></li>
-    <li><a href="#Lab-Setup">Steps to Migrate data from MySQL to S3</a></li>
+    <li><a href="#Steps-to-Migrate-data-from-MySQL-to-S3">Steps to Migrate data from MySQL to S3</a></li>
     <li><a href="#Import-/-Export-data-from-S3-to-DynamoDB">Import / Export data from S3 to DynamoDB</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>

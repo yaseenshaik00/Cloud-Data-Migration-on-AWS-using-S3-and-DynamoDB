@@ -62,7 +62,8 @@ The tools that have been used in the project are mentioned below:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Ethereum is a platform for developing applications. It is based on the Blockchain technology, and we can build applications on top of this such as payments, domain name systems, financial applications, and many, many more. In the nutshell, Blockchain is just a chain of blocks. Every block can take a list of transactions that happened in this block, and all blocks are connected into a chain. So the next block is always pointing to a previous block and so on, until we get to the first block that also is called Genesis block.
+<p>Amazon DynamoDB is a fully managed, serverless, key-value NoSQL database designed for high-performance applications at any scale. It comes with security, in-memory caching, automatic multi-region replication, and automated multi-region replication, as well as automatic data export controls.</p>
+<p>Scalability, data availability, security, and performance are the advantages of Amazon Simple Storage Service (Amazon S3).</p>
 
 ### Prerequisites
 
@@ -114,7 +115,7 @@ Create a table in DynamoDB
 * The Lambda function is the main role of this task and it has 4 small functions
 * Lambda Trigger will inject the data in DynamoDB table which was extracted from S3
 * Create a Lambda Function
- ```sh
+ ```py
 import boto3
 s3_client = boto3.client("s3")
 

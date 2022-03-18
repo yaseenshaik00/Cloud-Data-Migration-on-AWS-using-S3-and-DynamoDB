@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a>
-    <img src="images/amazon-web-services-logo.svg" alt="Logo" width="100" height="100">
+    <img src="images/kindpng_1522129.png" alt="Logo" width="160" height="105">
   </a>
   <h3 align="center">On premise Database to on Cloud Data migration - AWS</h3>
 
